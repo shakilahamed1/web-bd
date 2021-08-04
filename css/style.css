@@ -1,0 +1,88 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    margin-bottom: 100px;
+}
+.nav-item img{
+    height: 50px;
+    width: 100px;
+    margin-top: 10px;
+}
+.f-color{
+    font-weight: 900;
+}
+.banner-area img {
+    width: 560px;
+    height: 350px;
+    margin-bottom: 20px;
+}
+.my-btn{
+    background-color: #2196f3;
+    color: white;
+    font-weight: 700;
+}
+.green-color{
+    color:#21B573 ;
+    font-weight: 900;
+}
+.bg-color{
+    background-color:#F0FFF0;
+}
+
+.imgaa {
+    height: 150px;
+    margin-top: 90px;
+}
+.card-m{
+    border:none;
+    box-shadow:5px 5px 10px lightgray;
+    border-radius: 20px;
+    height: 350px;
+    background-color: #F8FFFB;
+   
+}
+.card4{
+    margin-right: 95px;
+    
+}
+.shadow-color{
+    border:none;
+    box-shadow:10px 10px 10px 10px rgb(250, 241, 251);
+    border-radius: 20px;
+    height: 350px;
+    background-color: #FFFFFF;
+}
+.gori{
+    background-color:#F0FFF0 ;
+}
+.man-img {
+    height: 160px;
+    margin-left: 219px;
+    margin-top: 30px;
+}
+
+.h6section{
+    margin-top: 38px;
+    font-weight: 700;
+    font-size: 20px;
+}
+.bgcolor{
+    background-color: blueviolet;
+    color: white;
+    padding: 50px;
+    
+}
+.course{
+    font-weight:900;
+    color: black;
+}
+.h6area{
+    margin-top: 57px;
+}
+ul li{
+    list-style: none;
+}
+.testimonil{
+    font-weight: 900;
+}
